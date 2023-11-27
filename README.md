@@ -28,6 +28,11 @@ Advantages
 
 #2.	INTRODUCTION 
 Applications for yoga can be divided into two types: applications that let users practice independently and applications that connect users with yoga instructors. Here are the features that you should implement in each of these applications. Of course, the cost to make an Yoga Daily-like app will depend on the set of features that you implement
+![image](https://github.com/Shaksham-singhal/Yoga_App/assets/72217766/81d43fc2-5e2c-4447-a8f1-77ea4b383a96)
+
+### Blueprint of the Yoga-Daily App 
+1.	First the user should be able to see the splash screen which should have good animation as well as soothing to the user ,just look that the app delay should not be more than the 3500ms time frame else it will look slow.Here is a screenshot of the splash screen
+   
 
 
 
