@@ -40,6 +40,13 @@ a.Below age 18 exercises
 b.After age 18 exercises 
 c.Tips and Skills
 
+
+![image](https://github.com/Shaksham-singhal/Yoga_App/assets/72217766/79b9c4da-5fed-4d2b-b356-a568d59538c5)
+
+
+3.	PROJECT DETAILS AND IMPLEMENTATION
+   Source code 
+
  
 
 
