@@ -45,7 +45,14 @@ c.Tips and Skills
 
 
 3.	PROJECT DETAILS AND IMPLEMENTATION
-   Source code 
+   Source code
+
+   
+![image](https://github.com/Shaksham-singhal/Yoga_App/assets/72217766/8df21443-0477-4cca-82b5-8352e70ab367)
+
+
+
+
 
  
 
