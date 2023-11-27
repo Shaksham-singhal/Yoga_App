@@ -32,6 +32,17 @@ Applications for yoga can be divided into two types: applications that let users
 
 ### Blueprint of the Yoga-Daily App 
 1.	First the user should be able to see the splash screen which should have good animation as well as soothing to the user ,just look that the app delay should not be more than the 3500ms time frame else it will look slow.Here is a screenshot of the splash screen
+
+![image](https://github.com/Shaksham-singhal/Yoga_App/assets/72217766/0dd388fc-bef5-4302-811a-c04a8dff59d5)
+
+2.	Secondly activity_main must start which will tell us what the app has to offer there are three options on the main screen –
+a.Below age 18 exercises 
+b.After age 18 exercises 
+c.Tips and Skills
+
+ 
+
+
    
 
 
