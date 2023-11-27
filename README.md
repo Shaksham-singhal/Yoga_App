@@ -50,6 +50,9 @@ c.Tips and Skills
    
 ![image](https://github.com/Shaksham-singhal/Yoga_App/assets/72217766/8df21443-0477-4cca-82b5-8352e70ab367)
 
+![image](https://github.com/Shaksham-singhal/Yoga_App/assets/72217766/e7c289ae-98b7-4307-bb10-b8f5db038059)
+
+
 
 
 
